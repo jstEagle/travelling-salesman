@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "title": "Traveling Salesman Solver",
+  "description": "A Rust implementation of the Held-Karp algorithm for solving the traveling salesman problem.",
+  "tags": [
+    "Rust",
+    "Algorithms",
+    "Optimization"
+  ],
+  "featured": false,
+  "order": 220,
+  "links": {
+    "demo": "https://github.com/jstEagle/travelling-salesman",
+    "repo": "https://github.com/jstEagle/travelling-salesman"
+  },
+  "images": []
+}
